@@ -1,10 +1,10 @@
 ### 👋 Hi, I'm Evan!
 
 
-# - 🔭 Aspiring Data Scientist passionate about using data to drive impactful insights and solutions
-  - 🏫 Current Data Science and Statistics Student at UC Berkeley
-  - 💼 Industry Experience includes internships and projects in data science and analytics, where I've developed models, visualizations, and reports that informed key business decisions
-  - 🌱 I'm currently learning advanced machine learning techniques, cloud computing (AWS), and bioinformatics
+- 🔭 Aspiring Data Scientist passionate about using data to drive impactful insights and solutions
+- 🏫 Current Data Science and Statistics Student at UC Berkeley
+- 💼 Industry Experience includes internships and projects in data science and analytics, where I've developed models, visualizations, and reports that informed key business decisions
+- 🌱 I'm currently learning advanced machine learning techniques, cloud computing (AWS), and bioinformatics
 
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
