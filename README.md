@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Evan!
+# 👋 Hi, I'm Evan!
 
 
 - 🔭 Aspiring Data Scientist passionate about using data to drive impactful insights and solutions
